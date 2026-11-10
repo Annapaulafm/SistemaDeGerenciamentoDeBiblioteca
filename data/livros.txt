@@ -15,3 +15,39 @@ Em Chamas;Suzanne Collins;2009;6;6
 A Esperança;Suzanne Collins;2010;8;8
 A Cantiga dos Pássaros e das Serpentes;Suzanne Collins;2020;4;4
 Sunrise on the Reaping;Suzanne Collins;2025;7;7
+A Seleção;Kiera Cass;2012;9;9
+A Elite;Kiera Cass;2013;7;7
+A Escolha;Kiera Cass;2014;7;7
+A Herdeira;Kiera Cass;2015;5;5
+A Coroa;Kiera Cass;2016;4;4
+A Hora da Estrela;Clarice Lispector;1977;8;8
+Perto do Coração Selvagem;Clarice Lispector;1943;5;5
+A Paixão Segundo G.H.;Clarice Lispector;1964;6;6
+Laços de Família;Clarice Lispector;1960;7;7
+Felicidade Clandestina;Clarice Lispector;1971;6;6
+Água Viva;Clarice Lispector;1973;4;4
+A Maçã no Escuro;Clarice Lispector;1961;3;3
+Uma Aprendizagem ou O Livro dos Prazeres;Clarice Lispector;1969;3;3
+Dom Casmurro;Machado de Assis;1899;12;12
+Memórias Póstumas de Brás Cubas;Machado de Assis;1881;8;8
+Capitães da Areia;Jorge Amado;1937;7;7
+Grande Sertão: Veredas;João Guimarães Rosa;1956;4;4
+Vidas Secas;Graciliano Ramos;1938;9;9
+Quarto de Despejo;Carolina Maria de Jesus;1960;5;5
+O Alquimista;Paulo Coelho;1988;11;11
+O Pequeno Príncipe;Antoine de Saint-Exupéry;1943;15;15
+1984;George Orwell;1949;10;10
+A Revolução dos Bichos;George Orwell;1945;9;9
+O Hobbit;J.R.R. Tolkien;1937;8;8
+O Senhor dos Anéis: A Sociedade do Anel;J.R.R. Tolkien;1954;6;6
+Orgulho e Preconceito;Jane Austen;1813;7;7
+Cem Anos de Solidão;Gabriel García Márquez;1967;6;6
+A Culpa é das Estrelas;John Green;2012;9;9
+O Diário de Anne Frank;Anne Frank;1947;8;8
+A Menina que Roubava Livros;Markus Zusak;2005;7;7
+O Código Da Vinci;Dan Brown;2003;8;8
+Percy Jackson e o Ladrão de Raios;Rick Riordan;2005;6;6
+Crepúsculo;Stephenie Meyer;2005;10;10
+As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa;C. S. Lewis;1950;5;5
+Frankenstein;Mary Shelley;1818;4;4
+O Apanhador no Campo de Centeio;J. D. Salinger;1951;5;5
